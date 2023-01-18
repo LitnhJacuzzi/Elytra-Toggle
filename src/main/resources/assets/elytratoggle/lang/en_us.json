@@ -1,0 +1,9 @@
+{
+	"key.elytratoggle.toggleelytra": "Toggle Elytra",
+	"key.categories.elytratoggle": "Elytra Toggle",
+	
+	"toggleelytra": "Elytra %s",
+	
+	"toggle.enable.true": "Enabled",
+  	"toggle.enable.false": "Disabled"
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="All rights reserved"
+
+[[mods]]
+modId="elytratoggle"
+version="1.0"
+displayName="Elytra Toggle"
+authors="LitnhJacuzzi"
+description='''
+Toggle elytra's fly ability as you want.
+'''
+
+[[dependencies.elytratoggle]]
+    modId="forge"
+    mandatory=true
+    versionRange="[34,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.elytratoggle]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1,1.17)"
+    ordering="NONE"
+    side="BOTH"
