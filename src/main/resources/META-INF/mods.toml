@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[34,)"
-license="All rights reserved"
+license="GPL 3.0"
 
 [[mods]]
 modId="elytratoggle"
@@ -8,7 +8,7 @@ version="1.0"
 displayName="Elytra Toggle"
 authors="LitnhJacuzzi"
 description='''
-Toggle elytra's fly ability as you want.
+Toggle elytra's flying ability as you want.
 '''
 
 [[dependencies.elytratoggle]]
